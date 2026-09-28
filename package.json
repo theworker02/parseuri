@@ -1,0 +1,29 @@
+{
+  "name": "@theworker02/parseuri",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Parse URLs and uri query parts with stable normalization.",
+  "bin": {
+    "parseuri": "src/cli.js"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/theworker02/parseuri.git"
+  },
+  "homepage": "https://theworker02.github.io/parseuri/",
+  "keywords": [
+    "parse",
+    "uri",
+    "url",
+    "cli",
+    "toolkit"
+  ]
+}
